@@ -13,12 +13,16 @@ I am currently a lecturer at College of Urban Transportation and Logistics, Shen
 Research Interests
 ======
 Multimodal transportation systems
+
 Emergency traffic management
+
 Passenger flow dynamics and prediction
+
 Ride-hailing service optimization
+
 Intelligent evacuation strategies
 
-News！
+News
 ======
 1. Mar. 2025  My paper 'Boarding space design for passenger evacuation with bus and e-hailing services under a surge in traffic demand' was online. 
 2. Mar. 2025  I successfully passed my oral defense at College of Transportation, Tongji University. 
