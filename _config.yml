@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Su Hang"
 description              : "Lecturer in Logistics Management"
 url                      : "https://Suzy9988.github.io"
-baseurl                  : "/Suzy9988.github.io"
+baseurl                  : ""  
 repository               : "Suzy9988/Suzy9988.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
