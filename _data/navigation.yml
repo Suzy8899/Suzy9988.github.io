@@ -6,19 +6,19 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
-baseurl: "/Suzy9988.github.io"
+
 main:
   - title: "Background"
-    url: "{{ site.baseurl }}/background/"
+    url: "/background/"
     
   - title: "Publications"
-    url: "{{ site.baseurl }}/publications/"
+    url: "/publications/"
 
   - title: "Talks"
-    url: "{{ site.baseurl }}/talks/"    
+    url: "/talks/"    
 
   - title: "Awards"
-    url: "{{ site.baseurl }}/awards/"  
+    url: "/awards/"  
     
 
         
